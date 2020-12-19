@@ -1,0 +1,13 @@
+C:\School\CSC-139\Chapter8\Appartment Rental\bin\Debug\Appartment Rental.exe.config
+C:\School\CSC-139\Chapter8\Appartment Rental\bin\Debug\Appartment Rental.exe
+C:\School\CSC-139\Chapter8\Appartment Rental\bin\Debug\Appartment Rental.pdb
+C:\School\CSC-139\Chapter8\Appartment Rental\bin\Debug\Appartment Rental.xml
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment_Rental.frmMain.resources
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment_Rental.Resources.resources
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.exe
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.xml
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment Rental.pdb
+C:\School\CSC-139\Chapter8\Appartment Rental\obj\Debug\Appartment_Rental.frmTenCities.resources
